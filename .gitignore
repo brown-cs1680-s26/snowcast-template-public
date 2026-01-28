@@ -1,0 +1,12 @@
+*~
+\#*#
+.\#*
+*.o
+
+.DS_Store
+
+# Created by tester
+/stations
+/reference
+/util/tester
+/util/bins_version.txt
